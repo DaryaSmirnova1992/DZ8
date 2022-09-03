@@ -11,6 +11,6 @@
     }
 Console.WriteLine("[{0}]", String.Join(",",array));
 Console.WriteLine("max:  " + max);
-Console.WriteLine("min:  " +min);
+Console.WriteLine("min:  " + min);
 Console.WriteLine("Разница максимального и минимального:  "+(max - min));
         
