@@ -6,7 +6,7 @@ int oddSum = 0;
 
 for(int i = 0; i < size; i++)
 {
-    array[i] = new Random().Next(0,1000);
+    array[i] = new Random().Next(-1000,1000);
 
     if(i % 2 > 0)
     {
